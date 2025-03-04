@@ -1,0 +1,12 @@
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\bin\Debug\net8.0\SmartAppointmentBookingSystem.Domain.deps.json
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\bin\Debug\net8.0\SmartAppointmentBookingSystem.Domain.dll
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\bin\Debug\net8.0\SmartAppointmentBookingSystem.Domain.pdb
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\SmartAppointmentBookingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\SmartAppointmentBookingSystem.Domain.AssemblyInfoInputs.cache
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\SmartAppointmentBookingSystem.Domain.AssemblyInfo.cs
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\SmartAppointmentBookingSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\SmartAppointmentBookingSystem.Domain.sourcelink.json
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\SmartAppointmentBookingSystem.Domain.dll
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\refint\SmartAppointmentBookingSystem.Domain.dll
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\SmartAppointmentBookingSystem.Domain.pdb
+D:\Work Space 2025\Intern-Assignments\2025\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem\SmartAppointmentBookingSystem.Domain\obj\Debug\net8.0\ref\SmartAppointmentBookingSystem.Domain.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "11AUq2qWSLG3cXTR/Pvs9v8ZlL/EFqk5qarGM+surRg=",
+  "Source": "SmartAppointmentBookingSystem.API",
+  "BasePath": "_content/SmartAppointmentBookingSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

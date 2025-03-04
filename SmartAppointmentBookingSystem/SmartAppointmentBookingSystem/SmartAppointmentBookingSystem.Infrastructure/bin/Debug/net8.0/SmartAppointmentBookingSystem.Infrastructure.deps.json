@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartAppointmentBookingSystem.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SmartAppointmentBookingSystem.Application": "1.0.0",
+          "SmartAppointmentBookingSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartAppointmentBookingSystem.Infrastructure.dll": {}
+        }
+      },
+      "SmartAppointmentBookingSystem.Application/1.0.0": {
+        "dependencies": {
+          "SmartAppointmentBookingSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartAppointmentBookingSystem.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SmartAppointmentBookingSystem.Domain/1.0.0": {
+        "runtime": {
+          "SmartAppointmentBookingSystem.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartAppointmentBookingSystem.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartAppointmentBookingSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartAppointmentBookingSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
